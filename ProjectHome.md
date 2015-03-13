@@ -1,0 +1,1 @@
+A novel algorithm in development for machine learning of a cost function over a trellis graph.
